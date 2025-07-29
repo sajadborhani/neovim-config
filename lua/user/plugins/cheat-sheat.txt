@@ -1,0 +1,19 @@
+You can…
+
+- get a list of all active mappings with :help maplist(),
+- get details about a specific mapping with :help maparg(),
+- check if a mapping exists with :help mapcheck(),
+- check if a mapping to a specific command exists with :help has_mapto().
+- If you want a list of all normal mode commands, see :help normal-index.
+
+here are the list of custome mapping for installed plugins
+<leader>ff		find file
+<leader>fg		live grep ( find phrase inside files in cwd)
+<leader>fb		search in buffers
+<leader>fh		telescope help tags
+
+<leader>o		toggle neotree menu
+<C-t> 			toggle terminal split
+:sp [file anme]		open file in horizontal split
+:vs [file name] 	open file in vertical split
+<C-w>+direction		switch between split opend widows

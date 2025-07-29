@@ -1,0 +1,46 @@
+return{}
+-- return {
+-- 	"neovim/nvim-lspconfig",
+-- 	config = function()
+-- 		local lspconfig = require("lspconfig")
+-- 		vim.lsp.set_log_level("debug")
+-- 		lspconfig.pylsp.setup( {
+-- 		  settings = {
+-- 		    pylsp = {
+-- 		      plugins = {
+-- 			pycodestyle = {
+-- 			  enabled = true,
+-- 			  maxLineLength = 100,
+-- 			  ignore = {'E501'},
+-- 			-- ignore = {'W391',"W291","E201","E251", "E501"},
+-- 			 },
+-- 			flake8 = {
+-- 			  enabled = false,  -- Keep flake8 enabled if you want to use it but ignore specific warnings
+-- 			  maxLineLength = 100,
+--
+-- 			},
+-- 			pyflakes = {
+-- 			  enabled = false,  -- You can also enable/disable other plugins
+-- 			  maxLineLength = 100,
+-- 			},
+-- 			pylint = {
+-- 			  enabled = false,  -- Disable pylint if you prefer
+-- 			  maxLineLength = 100,
+-- 			  -- ignore = {'W391',"W291","E201","E251", "E501"},
+-- 			},
+-- 			yapf = {
+-- 			  enabled = false,
+-- 			  maxLineLength = 100,
+-- 			},
+-- 			mccabe = {
+-- 				enabled = false,
+-- 				},
+--
+-- 			},
+-- 		  },
+-- 		},
+-- 	}
+-- 	)
+-- 	end
+-- }
+
