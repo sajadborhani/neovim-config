@@ -10,6 +10,6 @@ and run:
 
 lazy vim should take care of package installation and configuration
 
-use ["Cheat"] to see custom key bindings used in the configuration
+use `:Cheat` to see custom key bindings used in the configuration
 
 enjoy
