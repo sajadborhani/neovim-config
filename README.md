@@ -1,12 +1,12 @@
 clone the repo in ~/.config dir with :
-<pre> sh 
-  #cloning reposirtory 
+<pre><code class="language-s">
+    #cloning reposirtory 
   git clone https://github.com/sajadborhani/neovim-config.git
-</pre>
+</code></pre>
 and run:
-<pre>
+<pre><code class="language-sh">
   nvim
-</pre>
+</code></pre>
 
 lazy vim should take care of package installation and configuration
 
