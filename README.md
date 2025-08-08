@@ -1,10 +1,10 @@
 clone the repo in ~/.config dir with :
-<pre><code class="language-s">
+<pre><code lang="sh">
     #cloning reposirtory 
-  git clone https://github.com/sajadborhani/neovim-config.git
+    git clone https://github.com/sajadborhani/neovim-config.git
 </code></pre>
 and run:
-<pre><code class="language-sh">
+<pre><code lang="sh">
   nvim
 </code></pre>
 
