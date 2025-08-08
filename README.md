@@ -1,11 +1,11 @@
 clone the repo in ~/.config dir with :
 <pre><code lang="sh">
-    #cloning reposirtory 
-    git clone https://github.com/sajadborhani/neovim-config.git
+#cloning reposirtory 
+git clone https://github.com/sajadborhani/neovim-config.git
 </code></pre>
 and run:
 <pre><code lang="sh">
-  nvim
+nvim
 </code></pre>
 
 lazy vim should take care of package installation and configuration
