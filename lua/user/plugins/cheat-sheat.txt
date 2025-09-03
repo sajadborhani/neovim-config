@@ -17,3 +17,6 @@ here are the list of custome mapping for installed plugins
 :sp [file anme]		open file in horizontal split
 :vs [file name] 	open file in vertical split
 <C-w>+direction		switch between split opend widows
+<C-w><C-w>		switch between opend windows or popup window one by one
+K			hovering functionality of lsp
+gd			go to defenition
