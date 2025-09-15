@@ -17,6 +17,8 @@ install nvm and use it to install node.js follwing command:
         nvm install node
 </code></pre>
 
+after installation in order to use it you need to login to github copilot
+use `:Copilot auth` and follow instructions to login using your github account
 
 lazy vim should take care of package installation and configuration
 
