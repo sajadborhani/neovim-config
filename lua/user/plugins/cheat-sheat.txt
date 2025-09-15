@@ -20,3 +20,10 @@ here are the list of custome mapping for installed plugins
 <C-w><C-w>		switch between opend windows or popup window one by one
 K			hovering functionality of lsp
 gd			go to defenition
+
+github copilot keymaps:
+accept  = "<C-l>",   -- accept
+next    = "<C-j>",   -- next suggestion
+prev    = "<C-k>",   -- prev suggestion
+dismiss = "<C-e>",   -- dismiss
+
