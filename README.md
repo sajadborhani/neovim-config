@@ -8,6 +8,16 @@ and run:
 nvim
 </code></pre>
 
+in order to use github copilot you need to have node.js>20 installed
+install nvm and use it to install node.js follwing command:
+
+<pre><code lang="sh">
+        curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+        source ~/.bashrc
+        nvm install node
+</code></pre>
+
+
 lazy vim should take care of package installation and configuration
 
 use `:Cheat` to see custom key bindings used in the configuration
