@@ -1,7 +1,7 @@
 clone the repo in ~/.config dir with :
 <pre><code lang="sh">
 #cloning reposirtory 
-git clone https://github.com/sajadborhani/neovim-config.git
+git clone https://github.com/sajadborhani/neovim-config.git ~/.config/nvim
 </code></pre>
 and run:
 <pre><code lang="sh">
